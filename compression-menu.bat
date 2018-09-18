@@ -12,7 +12,7 @@ if %ask%==0 (
     echo //This script uses LZX algroithm to compress your C drive -approximetly ~%%50-
     echo //This script assumes that you are going to compress C drive
     echo if you want to change to an another drive or directory, edit script!
-    echo //HDD's are not recommended for this proces -gosh.. why you compress it anyways-
+    echo //HDD's are not recommended for this process -gosh.. why you compress it anyways-
     echo. & echo.
     goto menu
     
